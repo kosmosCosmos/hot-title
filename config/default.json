@@ -1,0 +1,13 @@
+{
+  // Customer module configs
+  "Customer": {
+    "dbConfig": {
+      “host”: “数据库名称”
+      ”port“: “数据库端口”
+      “user”: “数据库用户名”
+      ”password“:“数据库密码”
+      “database”: “默认数据库”
+    },
+    "Urlconfig":"需要抓取的uel"
+  }
+}
